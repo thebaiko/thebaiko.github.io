@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /post1
+  - url: /project1
     image_path: https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
