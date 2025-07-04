@@ -17,5 +17,6 @@ author_profile: true
 {: rules="groups"}
 
 
-[Project one][project1] 
-[project1]: {{ "" | relative_url }}{% post_url 2010-01-07-project1 %}
+Check out the [Project one text][project1].
+
+[project1]: {{ "/projects/project1/" | relative_url }}
