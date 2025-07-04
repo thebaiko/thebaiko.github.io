@@ -7,7 +7,7 @@ author_profile: true
 gallery:
   - url: /project1
     image_path: https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg
-  - url: /assets/images/github.jpg
+  - url: /assets/images/github.png
     image_path: https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg
   - url: /post3
     image_path: https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg
