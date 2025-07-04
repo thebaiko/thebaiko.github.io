@@ -99,7 +99,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      toc: true
+      read_time: false
       comments: false
       share: false
       related: false
