@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Reflections"
+layout: single
+permalink: /reflections/
 author_profile: true
 ---
