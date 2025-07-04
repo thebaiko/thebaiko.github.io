@@ -5,11 +5,11 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /project1
+  - url: /projects/project1/
+    image_path: /assets/images/github.phg
+  - url: /projects/project2/
     image_path: https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg
-  - url: /assets/images/github.png
-    image_path: https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg
-  - url: /post3
+  - url: /projects/project3/
     image_path: https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg
     
 ---
