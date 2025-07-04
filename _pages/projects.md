@@ -6,7 +6,7 @@ author_profile: true
 
 gallery:
   - url: /projects/project1/
-    image_path: /assets/images/github.phg
+    image_path: /assets/images/github.png
   - url: /projects/project2/
     image_path: https://upload.wikimedia.org/wikipedia/commons/5/50/Black_colour.jpg
   - url: /projects/project3/
