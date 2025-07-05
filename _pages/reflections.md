@@ -3,10 +3,10 @@ title: Reflections
 layout: collection
 permalink: /reflections/
 collection: reflections
-author_profile: true
-sort_by: title
+entries_layout: grid
+classes: wide
+sort_by: date
 ---
-
 
 
 
