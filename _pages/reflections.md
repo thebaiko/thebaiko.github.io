@@ -1,22 +1,16 @@
 ---
-title: "Reflections"
-layout: single
+title: Reflections
+layout: collection
 permalink: /reflections/
+collection: reflections
 author_profile: true
+sort_by: title
 ---
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
+
 
 
 Check out the [Project one text][project1].
 
 [project1]: {{ "/projects/project1/" | relative_url }}
+Also this [External link](https://github.com)
