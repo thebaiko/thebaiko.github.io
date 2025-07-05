@@ -119,7 +119,7 @@ defaults:
   # _reflections
   - scope:
       path: ""
-      type: portfolio
+      type: reflections
     values:
       layout: single
       author_profile: true
