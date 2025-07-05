@@ -118,7 +118,7 @@ defaults:
       related: false
   # _reflections
   - scope:
-      path: "_reflections"
+      path: ""
       type: portfolio
     values:
       layout: single
