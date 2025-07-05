@@ -1,7 +1,8 @@
 main:
-  - title: "Reflections"
-    url: /reflections/
+
   - title: "Projects"
     url: /projects/
+  - title: "Reflections"
+    url: /reflections/
   - title: "About"
     url: /about/
