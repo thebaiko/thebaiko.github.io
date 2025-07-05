@@ -116,9 +116,9 @@ defaults:
       comments: false
       share: false
       related: false
-  # _portfolio
+  # _reflections
   - scope:
-      path: ""
+      path: "_reflections"
       type: portfolio
     values:
       layout: single
