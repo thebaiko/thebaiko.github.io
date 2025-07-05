@@ -101,7 +101,6 @@ defaults:
       author_profile: true
       toc: true
       toc_sticky: true
-      toc_label:"Contents:"
       read_time: false
       comments: false
       share: false
