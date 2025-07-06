@@ -1,5 +1,6 @@
 ---
-title: "Micro handcuff stuff "
+title: "Micro handcuff stuff"
+excerpt: ""
 toc_label: "Contents:"
 header:
   teaser: /assets/images/p1_03.jpg
