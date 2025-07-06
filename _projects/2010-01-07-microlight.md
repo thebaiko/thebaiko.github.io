@@ -15,7 +15,7 @@ gallery:
 ---
 
 ## Description
-A simple tiny red light, made for quick and discreet usage. It lights up only while the button is pressed, measures about 15x10mm. The battery is replaceable.
+A simple tiny red light, made for quick and discreet usage. It lights up only while the button is pressed, measures about 15x10mm. The battery is replaceable. Very low profile and you can pierce the shrink tube to thread a lanyard if you want.
 
 Red is chosen because it doesn't spoil the natural night vision of our eyes, but if you're going to be working with red text/items you probably should use a different light colour.
 
@@ -43,5 +43,5 @@ Red is chosen because it doesn't spoil the natural night vision of our eyes, but
 - Put shrink tube around the button. Put the items in position with the battery and place hot glue around them, but don't cover the switch, nor the battery. Then wrap the thing in shrink tube, leaving the front clear, and heat it.
 
 
-### Gallery
+## Gallery
 {% include gallery popup=true caption=""%}
