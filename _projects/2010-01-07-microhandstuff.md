@@ -1,6 +1,8 @@
 ---
 title: "Micro handcuff stuff "
 toc_label: "Contents:"
+header:
+  teaser: /assets/images/p1_03.jpg
 gallery:
   - url: /assets/images/p1_01.jpg
     image_path: /assets/images/p1_01.jpg
@@ -26,11 +28,9 @@ Simple and tidy micro handcuff (Western style) stuff, very cheap, easy to source
 
 
 ## Preparation
-- With a pair of pliers, cut the bobby pin up to a length that is comfortable for you (about 25mm should do). Cut the flat 'arm' about 10mm shorter.
-
-If you don't cut any of it, you will need to strip the rubber from the tip.
-
-Bend the last 4mm of the longer arm away from the flat short arm, about 45 degrees.
+- With a pair of pliers, cut the bobby pin up to a length that is comfortable for you (about 25mm should do). Cut the flat 'arm' about 10mm shorter.  
+    If you don't cut any of it, you will need to strip the rubber from the tip.  
+    Bend the last 4mm of the longer arm away from the flat short arm, about 45 degrees.
 
 
 - Snap the hair clip by bending the widest part at the point where it divides into multiple arms. You can then cut it to a length that is comfortable, optionally cut the pivot point out.
