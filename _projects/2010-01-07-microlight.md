@@ -44,4 +44,4 @@ Red is chosen because it doesn't spoil the natural night vision of our eyes, but
 
 
 ### Gallery
-{% include gallery caption=""%}
+{% include gallery popup=true caption=""%}
