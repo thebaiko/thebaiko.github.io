@@ -1,8 +1,9 @@
 ---
 title: "Micro light"
+excerpt: ""
 toc_label: "Contents:"
 header:
-  image: /assets/images/p2_03.jpg
+  teaser: /assets/images/p2_03.jpg
 gallery:
   - url: /assets/images/p2_01.jpg
     image_path: /assets/images/p2_01.jpg
