@@ -25,7 +25,7 @@ Red is chosen because it doesn't spoil the natural night vision of our eyes, but
 
 | Item         | Quantity |                                                   |
 | --------         | ------   | ------------------------------------------------------------ |
-| **Soldering required** | | |
+| **Soldering required** |    |                                                           |
 | SMD tactile button   | 1   | SPST                               |
 | SMD LED      | 1       | Red                                                      |
 | 220 ohm resistor    | 1        | TH  |
