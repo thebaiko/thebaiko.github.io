@@ -99,6 +99,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: false
       read_time: false
       comments: false
       share: false
@@ -110,6 +111,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: false
       share: false
       toc: false
       read_time: false
@@ -122,6 +124,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: false
       share: false
       toc: true
       toc_sticky: true
