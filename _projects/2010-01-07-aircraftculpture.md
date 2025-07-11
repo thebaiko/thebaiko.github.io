@@ -55,7 +55,7 @@ I need to get a power profiler to find the real power consumption but it's been 
 ## Program
 
 This project uses the [TinySnore library][snore]. The program is uploaded using Arduino as ISP.
-[snore]: {{ "https://github.com/connornishijima/TinySnore" | relative_url }}
+
 
 ```cpp
 #include <tinysnore.h>        // Low power library; not needed, but makes it simpler
