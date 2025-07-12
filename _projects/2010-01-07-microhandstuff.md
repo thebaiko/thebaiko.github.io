@@ -3,7 +3,7 @@ title: "Micro handcuff stuff"
 excerpt: ""
 toc_label: "Contents:"
 header:
-  teaser: /assets/images/p1_03.jpg
+  teaser: /assets/images/p1_02.jpg
 gallery:
   - url: /assets/images/p1_01.jpg
     image_path: /assets/images/p1_01.jpg
